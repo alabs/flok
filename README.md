@@ -5,28 +5,33 @@
 David Vila-Viñas y Xabier E. Barandiaran (Eds.)
 
 * Agradecimientos 
-** Prólogo - Daniel Vázquez
-** FLOKeando en Ecuador - Milton Cerda 
-** Introducción - David Vila-Viñas & Xabier E. Barandiaran
-** El proceso Buen Conocer / FLOK Society - Xabier E. Barandiaran, David Vila-Viñas & Daniel Vazquez
-* PARTE 1. Potenciar la inteligencia colectiva
-** 1.1 Educación: Recursos educativos abiertos - David Vila-Viñas, Daniel Araya & Paul Bouchard
-** 1.2 Ciencia: Investigación colaborativa, participativa y abierta - Xabier E. Barandiaran, Daniel Araya & David Vila-Viñas
-** 1.3 Cultura: Acceso y sostenibilidad en la era de la cultura libre - David Vila-Viñas, Carolina Botero, Sylvie Durán, Jorge Gemetto, Bernardo Gutiérrez, Pilar Saenz & Pedro Soler 
-* PARTE 2. Capacidades productivas materiales orientadas a los comunes
-** 2.1 Agroalimentación: sistema agroalimentario abierto y sustentable en Ecuador - George Dafermos & José Luis Vivero-Pol
-** 2.2 Biodiversidad: ciencia ciudadana, saberes ancestrales y biodiversidad aplicada en la economía social del conocimiento - Stefano Golinelli, Karina Vega-Villa & Juan Fernando VillaRomero 
-** 2.3 Fabricacion: Diseño abierto y fabricación distribuida - George Dafermos
-** 2.4 Energía: Conocimientos libres, energía distribuida y empoderamiento social para un cambio de matriz energética - George Dafermos, Panos Kotsampopoulos, Kostas Latoufis, Ioannis Margaris, Beatriz Rivela, Fausto Paulino Washima, Pere Ariza-Montobbio & Jesús López
-* PARTE 3. Institucionalidad, sociedad y comunidades
-** 3.1 Institucionalidad: Sociedad del conocimiento, economía social y partner State - John Restakis
-** 3.2 Comunidades: Saberes y conocimientos originarios, tradicionales y populares - Juan Manuel Crespo & David Vila-Viñas
-* PARTE 4. Infraestructuras técnicas abiertas y libres
-** 4.1 Hardware: Ecosistemas de innovación y producción basados en hardware libre - Alan Lazalde, Jenny Torres & David Vila-Viñas
-** 4.2 Software: Programas libres y de código abierto en la Administración Pública - Jenny Torres & Mariangela Petrizzo
-** 4.3 Conectividad: Accesibilidad, soberanía y autogestión de las infraestructuras de comunicación - Jenny Torres & David Vila-Viñas
+* Prólogo - Daniel Vázquez
+* FLOKeando en Ecuador - Milton Cerda 
+* Introducción - David Vila-Viñas & Xabier E. Barandiaran
+* El proceso Buen Conocer / FLOK Society - Xabier E. Barandiaran, David Vila-Viñas & Daniel Vazquez
+
+### PARTE 1. Potenciar la inteligencia colectiva
+* 1.1. Educación: Recursos educativos abiertos - David Vila-Viñas, Daniel Araya & Paul Bouchard
+* 1.2. Ciencia: Investigación colaborativa, participativa y abierta - Xabier E. Barandiaran, Daniel Araya & David Vila-Viñas
+* 1.3 Cultura: Acceso y sostenibilidad en la era de la cultura libre - David Vila-Viñas, Carolina Botero, Sylvie Durán, Jorge Gemetto, Bernardo Gutiérrez, Pilar Saenz & Pedro Soler 
+
+### PARTE 2. Capacidades productivas materiales orientadas a los comunes
+* 2.1 Agroalimentación: sistema agroalimentario abierto y sustentable en Ecuador - George Dafermos & José Luis Vivero-Pol
+* 2.2 Biodiversidad: ciencia ciudadana, saberes ancestrales y biodiversidad aplicada en la economía social del conocimiento - Stefano Golinelli, Karina Vega-Villa & Juan Fernando VillaRomero 
+* 2.3 Fabricacion: Diseño abierto y fabricación distribuida - George Dafermos
+* 2.4 Energía: Conocimientos libres, energía distribuida y empoderamiento social para un cambio de matriz energética - George Dafermos, Panos Kotsampopoulos, Kostas Latoufis, Ioannis Margaris, Beatriz Rivela, Fausto Paulino Washima, Pere Ariza-Montobbio & Jesús López
+
+### PARTE 3. Institucionalidad, sociedad y comunidades
+* 3.1 Institucionalidad: Sociedad del conocimiento, economía social y partner State - John Restakis
+* 3.2 Comunidades: Saberes y conocimientos originarios, tradicionales y populares - Juan Manuel Crespo & David Vila-Viñas
+
+### PARTE 4. Infraestructuras técnicas abiertas y libres
+* 4.1 Hardware: Ecosistemas de innovación y producción basados en hardware libre - Alan Lazalde, Jenny Torres & David Vila-Viñas
+* 4.2 Software: Programas libres y de código abierto en la Administración Pública - Jenny Torres & Mariangela Petrizzo
+* 4.3 Conectividad: Accesibilidad, soberanía y autogestión de las infraestructuras de comunicación - Jenny Torres & David Vila-Viñas
+
+### Prólogo
 * Declaración de Quito
-* Autoras/es 
 
 ## Licencia
 
@@ -42,23 +47,17 @@ Se concede permiso para copiar, distribuir y/o modificar este documento bajo los
 
 # Metadatos
 
-ISBN 978-9942-21-120-0
-WEB: http://book.floksociety.org
-
-Financiado por: IAEN, MCCTH, SENESCYT y Asociación aLabs
-
-Editores de contenido: David Vila-Viñas, Xabier E. Barandiaran
-
-Editor conceptual: Carlos Prieto del Campo
-
-Editores digitales: Daniel Vazquez, Juan Manuel Crespo
-
-Autoras/es: Daniel Vazquez, Xabier E. Barandiaran, David Vila-Viñas, Daniel Araya, Paul Bouchard, Carolina Botero, Sylvie Durán, Jorge Gemetto, Bernardo Gutiérrez, Pilar Saenz, Pedro Soler, George Dafermos, José Luis Vivero-Pol, Stefano Golinelli, Karina Vega-Villa, Juan Fernando VillaRomero, Panos Kotsampopoulos, Kostas Latoufis, Ioannis Margaris, Beatriz Rivela, Fausto Paulino Washima, Pere Ariza-Montobbio, Jesús López, John Restakis, Juan Manuel Crespo, Alan Lazalde, Mariangela Petrizzo, Jenny Torres & Milton Cerda.
+|                           | |
+| ------                    | ----------- |
+| **ISBN**                  | 978-9942-21-120-0 |
+| **WEB**                   | http://book.floksociety.org |
+| **Financiado por**        | IAEN, MCCTH, SENESCYT y Asociación aLabs |
+| **Editores de contenido** |  David Vila-Viñas, Xabier E. Barandiaran |
+| **Editor conceptual**     | Carlos Prieto del Campo |
+| **Editores digitales** |  Daniel Vazquez, Juan Manuel Crespo |
+| **Autoras/es** | Daniel Vazquez, Xabier E. Barandiaran, David Vila-Viñas, Daniel Araya, Paul Bouchard, Carolina Botero, Sylvie Durán, Jorge Gemetto, Bernardo Gutiérrez, Pilar Saenz, Pedro Soler, George Dafermos, José Luis Vivero-Pol, Stefano Golinelli, Karina Vega-Villa, Juan Fernando VillaRomero, Panos Kotsampopoulos, Kostas Latoufis, Ioannis Margaris, Beatriz Rivela, Fausto Paulino Washima, Pere Ariza-Montobbio, Jesús López, John Restakis, Juan Manuel Crespo, Alan Lazalde, Mariangela Petrizzo, Jenny Torres & Milton Cerda. | 
 
 Editado enteramente con LibreOffice y fuentes tipográficas libres Gentium Basic y Linux Biolium O.
 
-David Vila-Viñas y Xabier E. Barandiaran (Eds.)
-
-Daniel Vázquez, Xabier E. Barandiaran, David Vila-Viñas, Daniel Araya, Paul Bouchard, Carolina Botero, Sylvie Durán, Jorge Gemetto, Bernardo Gutiérrez, Pilar Saenz, Pedro Soler, George Dafermos, José Luis Vivero-Pol, Stefano Golinelli, Karina Vega-Villa, Juan Fernando VillaRomero, Panos Kotsampopoulos, Kostas Latoufis, Ioannis Margaris, Beatriz Rivela, Fausto Paulino Washima, Pere Ariza-Montobbio, Jesús López, John Restakis, Juan Manuel Crespo, Alan Lazalde, Mariangela Petrizzo, Jenny Torres & Milton Cerda
-
 http://book.floksociety.org/ec/
+
