@@ -2,7 +2,11 @@
 ## Modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en el Ecuador
 ### David Vila-Viñas y Xabier E. Barandiaran (Eds.)
 
-![Buen Conocer / FLOK Society](/extras/libro.png?raw=true "Buen Conocer / FLOK Society")
+
+### Sublime's custom image
+<p align="center">
+  <img src="https://github.com/alabs/flok/blob/master/extras/libro.png?raw=true" alt="Buen Conocer / FLOK Society" />
+</p>
 
 ## Indice
 
