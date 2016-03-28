@@ -3,7 +3,6 @@
 ### David Vila-Viñas y Xabier E. Barandiaran (Eds.)
 
 
-### Sublime's custom image
 <p align="center">
   <img src="https://github.com/alabs/flok/blob/master/extras/libro.png?raw=true" alt="Buen Conocer / FLOK Society" />
 </p>
